@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Kalees
+# 👋 Hey, I'm Kaleeswaran
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:1f1f1f&height=180&section=header&text=kalees-bytes&fontSize=50&fontColor=ffffff&animation=twinkling" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:1f1f1f&height=180&section=header&text=kaleeswaran&fontSize=50&fontColor=ffffff&animation=twinkling" alt="header" />
 
 **Ethical Hacker · Security Enthusiast · Developer**
 
