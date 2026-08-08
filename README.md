@@ -57,7 +57,7 @@
 ## 📫 Connect
 
 - 📧 Email: kaleeswarannagaraj2@gmail.com
-- 📸 Instagram: [@akal.pj](https://instagram.com/akal.pj)
+- 📸 Instagram: [@kxleesh](https://instagram.com/kxleesh)
 - 🐙 GitHub: [@kalees-bytes](https://github.com/kalees-bytes)
 
 ---
